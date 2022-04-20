@@ -1,0 +1,2 @@
+# vimrc
+Configrations for neovim.
